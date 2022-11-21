@@ -1,4 +1,4 @@
-Biography
+🪪 Biography
 --------------------------------------------------------------------------------------
 🇺🇸 - Hi, my name is Edoardo. I am a graduate student in Information Systems at Estácio.
 During my academic period, I studied the basics of some languages such as C++, C# and Java.
