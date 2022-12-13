@@ -1,4 +1,9 @@
-🪪 Biography
+<h2>🪪 Biography</h2>
+
+<p align="center">
+  <img width="680" height="428" src="https://www.navicosoft.com/wp-content/uploads/2018/08/expert-developers.gif">
+</p>
+
 --------------------------------------------------------------------------------------
 🇺🇸 - Hi, my name is Edoardo. I am a graduate student in Information Systems at Estácio.
 During my academic period, I studied the basics of some languages such as C++, C# and Java.
