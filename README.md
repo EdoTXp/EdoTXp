@@ -20,4 +20,4 @@ Durante il mio periodo academico, ho studiato le basi di alcuni linguaggi come C
 Ho conosciuto la piattaforma Android e da quel momento mi sono innamorato del mondo mobile.
 Adesso sto studiando il linguaggio Dart e il framework Flutter.
 
-<h4>Image Font: </h4>https://www.navicosoft.com/wp-content/uploads/2018/08/expert-developers.gif
+<h4>Image Source: </h4>https://www.navicosoft.com/wp-content/uploads/2018/08/expert-developers.gif
