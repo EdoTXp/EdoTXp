@@ -1,7 +1,7 @@
 <h2>🪪 Biography</h2>
 
 <p align="center">
-  <img width="680" height="428" src="https://www.navicosoft.com/wp-content/uploads/2018/08/expert-developers.gif">
+  <img width="680" height="428" src="Banner%20tecnologia.webp">
 </p>
 
 --------------------------------------------------------------------------------------
@@ -19,5 +19,3 @@ Agora estou estudando a linguagem Dart e a framework Flutter.
 Durante il mio periodo academico, ho studiato le basi di alcuni linguaggi come C++, C# e Java.
 Ho conosciuto la piattaforma Android e da quel momento mi sono innamorato del mondo mobile.
 Adesso sto studiando il linguaggio Dart e il framework Flutter.
-
-<h4>Image Source: </h4>https://www.navicosoft.com/wp-content/uploads/2018/08/expert-developers.gif
