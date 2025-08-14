@@ -84,3 +84,9 @@ With **Flutter**, I apply **BLoC** and **ChangeNotifier** for scalable state man
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdoTXp&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoTXp&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/EdoTXp/EdoTXp/blob/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake Game">
+</p>
