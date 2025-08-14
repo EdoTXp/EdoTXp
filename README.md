@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/EdoTXp/EdoTXp/blob/output/github-snake.gif" alt="GitHub Snake Game">
+</p>
+
+---
+
 <h2 align="center">🪪 Biography</h2>
 
 <p align="center">
@@ -83,10 +89,4 @@ With **Flutter**, I apply **BLoC** and **ChangeNotifier** for scalable state man
   <img src="https://github-readme-stats.vercel.app/api?username=EdoTXp&show_icons=true&theme=radical" alt="GitHub stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdoTXp&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoTXp&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/EdoTXp/EdoTXp/blob/output/github-snake.gif" alt="GitHub Snake Game">
 </p>
