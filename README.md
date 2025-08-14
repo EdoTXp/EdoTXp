@@ -29,7 +29,7 @@ Now I’m diving into **Dart 🟦** and **Flutter 💙**.
 
 ---
 
-## 👨‍💻 About Me / Chi Sono / Sobre Mim
+## 👨‍💻 About Me
 
 ### 🇮🇹 Chi Sono
 Sono **sviluppatore mobile in formazione**, con focus su **Android nativo (Java/Kotlin)** e **Flutter (Dart)**.  
