@@ -88,5 +88,5 @@ With **Flutter**, I apply **BLoC** and **ChangeNotifier** for scalable state man
 ---
 
 <p align="center">
-  <img src="https://github.com/EdoTXp/EdoTXp/blob/output/dist/github-snake.gif" alt="GitHub Snake Game">
+  <img src="https://github.com/EdoTXp/EdoTXp/blob/output/github-snake.gif" alt="GitHub Snake Game">
 </p>
