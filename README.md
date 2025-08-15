@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center">🪪 Biography</h2>
+## 🪪 Biography
 
 <p align="center">
   <img src="Banner tecnologia.webp" alt="Banner Edoardo - Tecnologia" width="680" height="428">
