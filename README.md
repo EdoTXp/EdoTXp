@@ -7,7 +7,7 @@
 ## 🪪 Biography
 
 <p align="center">
-  <img src="banner.png" alt="Banner Edoardo - Tecnologia" width="680" height="428">
+  <img src="banner.png" alt="Banner Edoardo - Tecnologia">
 </p>
 
 ---
