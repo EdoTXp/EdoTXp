@@ -1,53 +1,51 @@
 <p align="center">
   <img src="https://github.com/EdoTXp/EdoTXp/blob/output/github-snake.gif" alt="GitHub Snake Game">
 </p>
-
----
-
+ 
 ## 🪪 Biography
-
+ 
 <p align="center">
   <img src="banner.png" alt="Banner Edoardo - Tecnologia">
 </p>
-
----
-
+ 
 ## 🇮🇹 Ciao! 
 Mi chiamo **Edoardo**, laureato in Sistemi di Informazione presso Estácio.  
 Ho studiato **C++, C#, Java** e mi sono innamorato dello sviluppo mobile con **Android 🤖**.  
-Ora approfondisco **Dart 🟦** e **Flutter 💙**.
-
+Oggi lavoro con **Flutter 💙** e **Kotlin 🟣** sul mobile, e con **Java ☕** e **Spring Boot 🍃** sul back-end.
+ 
 ## 🇧🇷 Olá! 
 Meu nome é **Edoardo**, formado em Sistemas de Informação pela Estácio.  
 Estudei **C++, C#, Java** e me apaixonei pelo desenvolvimento mobile com **Android 🤖**.  
-Agora estudo **Dart 🟦** e **Flutter 💙**.
-
+Hoje trabalho com **Flutter 💙** e **Kotlin 🟣** no mobile, e com **Java ☕** e **Spring Boot 🍃** no back-end.
+ 
 ## 🇺🇸 Hi! 
 I am **Edoardo**, graduated in Information Systems at Estácio.  
 I studied **C++, C#, Java** and fell in love with mobile development with **Android 🤖**.  
-Now I’m diving into **Dart 🟦** and **Flutter 💙**.
-
----
-
+Today I work with **Flutter 💙** and **Kotlin 🟣** on mobile, and with **Java ☕** and **Spring Boot 🍃** on the back-end.
+ 
 ## 👨‍💻 About Me
-
+ 
 ### 🇮🇹 Chi Sono
-Sono **sviluppatore mobile in formazione**, con focus su **Android nativo (Java/Kotlin)** e **Flutter (Dart)**.  
-Nei miei progetti personali utilizzo **Android Studio**, architettura **MVVM**, **Jetpack**, principi **SOLID** e **Clean Architecture**.  
-Con **Flutter** applico **BLoC** e **ChangeNotifier** per gestire lo stato in modo scalabile.
-
+Sono **sviluppatore Junior Full Stack (Mobile & Back-end)**, con focus su **Flutter (Dart)**, **Android nativo (Kotlin/Java)** e **Java con Spring Boot**.  
+Nei miei progetti uso architettura **MVVM**, **Jetpack**, principi **SOLID**, **Clean Architecture** e design pattern.  
+Con **Flutter** applico **BLoC**, **Provider** e **Riverpod** per gestire lo stato in modo scalabile.  
+Sul back-end costruisco **API REST** con **Spring Boot**, **PostgreSQL** e **Docker**, con CI/CD tramite **GitHub Actions**.  
+Sviluppo principalmente su **Fedora Linux 🐧**.
+ 
 ### 🇧🇷 Sobre Mim
-Sou **desenvolvedor mobile em formação**, com foco em **Android nativo (Java/Kotlin)** e **Flutter (Dart)**.  
-Em meus projetos pessoais, utilizo **Android Studio**, arquitetura **MVVM**, **Jetpack**, princípios **SOLID** e **Clean Architecture**.  
-Com **Flutter**, aplico **BLoC** e **ChangeNotifier** para gerenciar o estado de forma escalável.
-
+Sou **desenvolvedor Júnior Full Stack (Mobile & Back-end)**, com foco em **Flutter (Dart)**, **Android nativo (Kotlin/Java)** e **Java com Spring Boot**.  
+Em meus projetos, utilizo arquitetura **MVVM**, **Jetpack**, princípios **SOLID**, **Clean Architecture** e padrões de projeto.  
+Com **Flutter**, aplico **BLoC**, **Provider** e **Riverpod** para gerenciar o estado de forma escalável.  
+No back-end, construo **APIs REST** com **Spring Boot**, **PostgreSQL** e **Docker**, com CI/CD via **GitHub Actions**.  
+Desenvolvo principalmente no **Fedora Linux 🐧**.
+ 
 ### 🇺🇸 About Me
-I am a **mobile developer in training**, focused on **native Android (Java/Kotlin)** and **Flutter (Dart)**.  
-In my personal projects I use **Android Studio**, **MVVM architecture**, **Jetpack**, **SOLID principles**, and **Clean Architecture**.  
-With **Flutter**, I apply **BLoC** and **ChangeNotifier** for scalable state management.
-
----
-
+I am a **Junior Full Stack Developer (Mobile & Back-end)**, focused on **Flutter (Dart)**, **native Android (Kotlin/Java)** and **Java with Spring Boot**.  
+In my projects I use **MVVM architecture**, **Jetpack**, **SOLID principles**, **Clean Architecture** and design patterns.  
+With **Flutter**, I apply **BLoC**, **Provider** and **Riverpod** for scalable state management.  
+On the back-end, I build **REST APIs** with **Spring Boot**, **PostgreSQL** and **Docker**, with CI/CD through **GitHub Actions**.  
+I mainly develop on **Fedora Linux 🐧**.
+ 
 ## 🛠️ Skills
 <p align="center">
 <table>
@@ -79,14 +77,39 @@ With **Flutter**, I apply **BLoC** and **ChangeNotifier** for scalable state man
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </td>
 </tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
+</td>
+</tr>
 </table>
 </p>
-
----
-
+ 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdoTXp&show_icons=true&theme=radical" alt="GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdoTXp&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoTXp&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<table align="center">
+<tr>
+<td valign="top">
+<img src="https://ghstats.dev/api/card?username=EdoTXp&theme=dracula&show_ring=false&custom_title=My+Stats&hide=stars%2Ccommits%2Cweek" alt="GitHub Stats Card">
+</td>
+<td valign="top">
+<img src="https://ghstats.dev/api/langs?username=EdoTXp&theme=dracula&custom_title=Languages+Used" alt="Top Languages">
+</td>
+</tr>
+</table>
